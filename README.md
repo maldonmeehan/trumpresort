@@ -1,4 +1,4 @@
-# Trump Island Resort Website
+# TrumpIsland Resort Website
 
 #### An exercise for Epicodus to learn Branching and Merging, Git, HTML and CSS, May 24, 2016
 
