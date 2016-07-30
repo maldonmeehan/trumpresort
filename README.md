@@ -30,6 +30,7 @@ If you have any questions please feel free to contact Noah or Maldon on github.
 * HTML
 * CSS
 * Bootstrap
+* Merging and Branching
 
 ### License
 
