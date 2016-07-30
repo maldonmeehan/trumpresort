@@ -1,12 +1,15 @@
-# TrumpIsland Resort Website
+# TrumpIsland Resort Website | Intro to Programming
 
-#### An exercise for Epicodus to learn Branching and Merging, Git, HTML and CSS, May 24, 2016
+#### A Branshing and Merging Exercise for Epicodus, May 24, 2016
 
 #### By **_Maldon Meehan and Noah Yasskin_**
 
 ## Description
 
 This website is made based on a scenario that says we are hired by a wealthy individual (we chose Trump) to create a website for a private island resort that he is building.
+
+* The Full lesson can be found
+<a href="https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/practice-branching-and-merging">here</a>
 
 ## Setup/Installation Requirements
 
@@ -16,18 +19,20 @@ This website is made based on a scenario that says we are hired by a wealthy ind
 
 ## Known Bugs
 
-_Currently no known bugs_
+No known bugs at this point
 
 ## Support and contact details
 
-If you run into any issues or have questions, ideas or concerns, please contact Maldon at maldonmeehan@gmail.com or Noah at noahyasskin@gmail.com. We welcome any contributions you would like to make to the website.
+If you have any questions please feel free to contact Noah or Maldon on github.
 
 ## Technologies Used
 
-The languages and tools we used to create this app are HTML and CSS (nothing too cool at this point). We also used Terminal on a Mac and Git with GitHub remote repositories.
+* HTML
+* CSS
+* Bootstrap
 
-### License / Legal
+### License
 
-This software is licensed under the MIT license
+MIT License
 
-Copyright (c) 2015 **_Maldon Meehan and Noah Yasskin (Epicodus students)_**
+Copyright (c) 2016, **Noah Yasskin & Maldon Meehan, Epicodus**
